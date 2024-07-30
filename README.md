@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm [Lydia]</h1>
 <h3 align="center">A Passionate Machine Learning Enthusiast | AI & Deep Learning Specialist | Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="Ly1874dia" /> </p>
 
 - 🔭 I’m currently working on **Advanced Neural Network Architectures**
 
@@ -31,9 +31,5 @@
 <a href="https://spark.apache.org/" target="_blank"> <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="spark" width="80" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=your-username&show_icons=true&locale=en&layout=compact" alt="your-username" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&locale=en" alt="your-username" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&" alt="Ly1874dia" /></p>
 
